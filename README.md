@@ -1,3 +1,6 @@
+
+LabyrinthEscape
+----------------
 Algorithme Java exploitant A* et Dijkstra pour l’évasion optimale face à un
 feu dynamique.
 
